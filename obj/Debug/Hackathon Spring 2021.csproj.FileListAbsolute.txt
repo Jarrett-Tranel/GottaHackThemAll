@@ -1,0 +1,12 @@
+D:\csResources\Hackathons\Hackathon Spring 2021\Hackathon Spring 2021\bin\Debug\Hackathon Spring 2021.exe.config
+D:\csResources\Hackathons\Hackathon Spring 2021\Hackathon Spring 2021\bin\Debug\Hackathon Spring 2021.exe
+D:\csResources\Hackathons\Hackathon Spring 2021\Hackathon Spring 2021\bin\Debug\Hackathon Spring 2021.pdb
+D:\csResources\Hackathons\Hackathon Spring 2021\Hackathon Spring 2021\bin\Debug\MaterialSkin.dll
+D:\csResources\Hackathons\Hackathon Spring 2021\Hackathon Spring 2021\obj\Debug\Hackathon Spring 2021.csprojAssemblyReference.cache
+D:\csResources\Hackathons\Hackathon Spring 2021\Hackathon Spring 2021\obj\Debug\Hackathon_Spring_2021.Form1.resources
+D:\csResources\Hackathons\Hackathon Spring 2021\Hackathon Spring 2021\obj\Debug\Hackathon_Spring_2021.Properties.Resources.resources
+D:\csResources\Hackathons\Hackathon Spring 2021\Hackathon Spring 2021\obj\Debug\Hackathon Spring 2021.csproj.GenerateResource.cache
+D:\csResources\Hackathons\Hackathon Spring 2021\Hackathon Spring 2021\obj\Debug\Hackathon Spring 2021.csproj.CoreCompileInputs.cache
+D:\csResources\Hackathons\Hackathon Spring 2021\Hackathon Spring 2021\obj\Debug\Hackathon Spring 2021.csproj.CopyComplete
+D:\csResources\Hackathons\Hackathon Spring 2021\Hackathon Spring 2021\obj\Debug\Hackathon Spring 2021.exe
+D:\csResources\Hackathons\Hackathon Spring 2021\Hackathon Spring 2021\obj\Debug\Hackathon Spring 2021.pdb
