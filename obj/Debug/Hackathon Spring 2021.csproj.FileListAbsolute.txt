@@ -10,3 +10,5 @@ D:\csResources\Hackathons\Hackathon Spring 2021\Hackathon Spring 2021\obj\Debug\
 D:\csResources\Hackathons\Hackathon Spring 2021\Hackathon Spring 2021\obj\Debug\Hackathon Spring 2021.csproj.CopyComplete
 D:\csResources\Hackathons\Hackathon Spring 2021\Hackathon Spring 2021\obj\Debug\Hackathon Spring 2021.exe
 D:\csResources\Hackathons\Hackathon Spring 2021\Hackathon Spring 2021\obj\Debug\Hackathon Spring 2021.pdb
+D:\csResources\Hackathons\Hackathon Spring 2021\Hackathon Spring 2021\obj\Debug\Hackathon_Spring_2021.catchScreen.resources
+D:\csResources\Hackathons\Hackathon Spring 2021\Hackathon Spring 2021\obj\Debug\Hackathon_Spring_2021.Intro.resources
